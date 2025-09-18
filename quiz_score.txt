@@ -1,0 +1,5 @@
+al score is: 3
+bob score is: 3
+kel score is: 3
+you score is: 2
+ron score is: 0
